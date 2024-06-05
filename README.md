@@ -30,7 +30,7 @@ The necessary development environment and libraries are set up using Visual Stud
 Handling 3D model files includes:
 
 1. **Downloading .off Files:**
-   - Download 400 .off files from the [SEGAL Project at Princeton University](https://www.cs.princeton.edu/~min/seganalysis/).
+   - Download 400 .off files from the [SEGAL Project at Princeton University]([https://www.cs.princeton.edu/~min/seganalysis/](https://segeval.cs.princeton.edu/)).
 
 2. **Implementing File Loading:**
    - Implement a function to load .off files, reading vertex and face data from the files and storing them in appropriate data structures.
@@ -105,5 +105,5 @@ The GUI is enhanced to include options for different shading techniques:
 
 ### Additional Setup Notes
 - Choose C++ version 17 in the Visual Studio project settings.
-- The .off files used for testing can be downloaded from the [SEGAL Project at Princeton University](https://www.cs.princeton.edu/~min/seganalysis/).
+- The .off files used for testing can be downloaded from the [SEGAL Project at Princeton University]([https://www.cs.princeton.edu/~min/seganalysis/](https://segeval.cs.princeton.edu/)).
 
